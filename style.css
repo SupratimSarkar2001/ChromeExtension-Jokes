@@ -1,0 +1,37 @@
+body{
+    width: 200px;
+    height: 200px;
+    background: rgb(252, 250, 252);
+    text-align: center;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    /* text-shadow: 0.9 rgb(188, 145, 196); */
+}
+p{
+  
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: rgb(191, 149, 229);
+    border-radius: 20px;
+    border-color: 1px solid floralwhite;
+}
+.round{
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    background-color: rgb(191, 149, 229);
+    position: absolute;
+    margin-bottom: 2px;
+
+}
+.round2{
+    height: 5px;
+    width: 5px;
+    border-radius: 50px;
+    background-color: rgb(191, 149, 229);
+    position: absolute;  
+    margin-top:23px;
+    margin-right: 6px;
+}
